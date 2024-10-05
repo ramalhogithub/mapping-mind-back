@@ -8,6 +8,7 @@ public class MappingMindBackApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MappingMindBackApplication.class, args);
+		System.out.println("Ola Mundo Jenkins");
 	}
 
 }
